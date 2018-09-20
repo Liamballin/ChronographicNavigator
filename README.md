@@ -1,5 +1,9 @@
 # ChronographicNavigator
 
+![Schematic](https://raw.githubusercontent.com/Liamballin/ChronographicNavigator/master/ChronographicNavigatorSchematic_schem.png)
+
+
+
 The Chronographic Navigator is a handheld device that allows the user to experience time as a
 physical area. The user inputs a location and the time they want to arrive, and the Navigator will
 display a shrinking circular area around their destination they must be inside of to arrive on time.
