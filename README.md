@@ -1,7 +1,7 @@
 # ChronographicNavigator
 
 ![Schematic](https://raw.githubusercontent.com/Liamballin/ChronographicNavigator/master/ChronographicNavigatorSchematic_schem.png)
-
+![Image](https://raw.githubusercontent.com/Liamballin/ChronographicNavigator/master/Images/IMG_0743.JPG)
 
 
 The Chronographic Navigator is a handheld device that allows the user to experience time as a
